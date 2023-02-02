@@ -6,3 +6,7 @@
 remote repo
 
 local repo
+
+staging area
+
+just modified
