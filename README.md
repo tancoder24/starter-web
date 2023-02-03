@@ -10,3 +10,5 @@ local repo
 staging area
 
 just modified
+
+add copywright notice
