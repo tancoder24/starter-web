@@ -12,3 +12,5 @@ staging area
 just modified
 
 add copywright notice
+
+Please fork this repo an issue pull request for review
